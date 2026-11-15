@@ -155,6 +155,12 @@ All six helper scripts (`facts.py`, `verdict.py`, `card.py`, `badge.py`, `readme
 
 Better jokes, sharper checks and bug reports are all welcome. See [CONTRIBUTING.md](CONTRIBUTING.md).
 
+## Author
+
+Built by [Vivek Bhange](https://vivekbhange.tech), Full-Stack AI Engineer.
+See this project on my portfolio: https://vivekbhange.tech/projects/repo-roast-skill/
+More open-source skill packs: https://vivekbhange.tech/projects/
+
 ## License
 
 MIT © 2026 Vivek Bhange. See [LICENSE](LICENSE).

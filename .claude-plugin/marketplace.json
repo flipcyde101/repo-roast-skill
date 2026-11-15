@@ -2,7 +2,7 @@
   "$schema": "https://anthropic.com/claude-code/marketplace.schema.json",
   "name": "repo-roast-skill",
   "description": "Get your repo roasted by a panel of six brutally honest senior engineers. Every jab comes with evidence and a fix.",
-  "owner": { "name": "Vivek Bhange", "url": "https://github.com/vivekbhange-hub" },
+  "owner": { "name": "Vivek Bhange", "url": "https://vivekbhange.tech" },
   "plugins": [
     {
       "name": "repo-roast-skill",
